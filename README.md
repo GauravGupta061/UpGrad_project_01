@@ -48,4 +48,4 @@ Deployment: The model can be deployed using Flask or FastAPI for real-time anoma
 If you have any questions or issues with the project, feel free to contact me:
 Name: Gaurav Gupta
 Email: guptagaurav061@gmail.com 
-Github:
+Github: https://github.com/GauravGupta061/UpGrad_project_01
