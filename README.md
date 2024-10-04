@@ -2,6 +2,15 @@
 
                                               **Predictive Maintenance using Anomaly Detection**
 
+**Structure**
+
+├── data/
+│   ├── AnomaData.xlsx      
+├── notebooks/
+│   ├── UpGrad_project_01.ipynb
+├── README.md
+├── requirements.txt
+
 **Project Overview**
 
 This project focuses on building a machine learning model to predict machine breakdowns (anomalies) based on sensor data collected from machines. By detecting anomalies early, organizations can schedule maintenance in advance, preventing costly breakdowns and reducing downtime. The project explores various models including Random Forest, XGBoost, and ensemble methods to detect these anomalies effectively.
